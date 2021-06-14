@@ -1,0 +1,17 @@
+.intro-start, .intro-para {
+    text-align: center;
+}
+
+.intro-name, .intro-para {
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+
+.intro-heading {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.my-img {
+    border-radius: 40px;
+    box-shadow: 5px 5px 5px #888888;
+    margin-bottom: 20px;
+}
