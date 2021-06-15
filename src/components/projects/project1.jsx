@@ -3,7 +3,7 @@ import ProjectTemplate from "./ProjectTemplate";
 
 function ProjectFinal() {
     return (
-        <div>
+        <div className="project-content">
             <h1 className="project-heading">Projects</h1>
             <ProjectTemplate
                 projectHeading="Text Analyser"
@@ -34,6 +34,10 @@ function ProjectFinal() {
                 projectHeading="Money Tracker"
                 projectText="As a part of a ReactJS course that I am doing on Udemy, I am making a ReactJS website that tracks the money that you spent on different things in a creative graphical way and stores the data of every month and year that you were active and busy spending your money."
             />
+
+            <p>
+                (NOTE: I have not yet hosted these websites but they are in store in my GitHub repositories.)
+            </p>
         </div>
     )
 }

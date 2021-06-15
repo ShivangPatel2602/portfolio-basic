@@ -1,13 +1,10 @@
 #root {
     background-color: #005792;
+    text-align: center;
     color: white;
 }
 
-.intro-start, .intro-para, .education-schools, .education-heading, .skills-heading {
-    text-align: center;
-}
-
-.intro-name, .intro-para, .education-heading, .skills-heading {
+.intro-name, .intro-para, .education-heading, .skills-heading, .project-content {
     font-family: 'Baloo Tammudu 2', cursive;
 }
 
@@ -17,7 +14,7 @@
     padding-top: 20px;
 }
 
-.intro-name {
+.intro-name, .project-heading {
     margin: 50px 0 20px 0;
 }
 
@@ -61,4 +58,8 @@ td {
     color: black;
     height: 100px;
     width: 600px;
+}
+
+.project-justify {
+    padding: 10px 120px 20px 120px;
 }
