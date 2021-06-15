@@ -4,7 +4,7 @@
     color: white;
 }
 
-.intro-name, .intro-para, .education-heading, .skills-heading, .project-content {
+.intro-name, .intro-para, .education-heading, .skills-heading, .project-content, .goal-content {
     font-family: 'Baloo Tammudu 2', cursive;
 }
 
@@ -14,7 +14,7 @@
     padding-top: 20px;
 }
 
-.intro-name, .project-heading {
+.intro-name, .project-heading, .goals-heading {
     margin: 50px 0 20px 0;
 }
 
@@ -60,6 +60,6 @@ td {
     width: 600px;
 }
 
-.project-justify {
+.project-justify, .goal-justify {
     padding: 10px 120px 20px 120px;
 }
