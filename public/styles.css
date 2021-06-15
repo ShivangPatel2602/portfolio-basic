@@ -21,13 +21,20 @@
     margin: 0 40px 0 40px;
 }
 
+table {
+    justify-content: center;
+}
 .carousel-area {
-    background-color: #888888;
+    background-color: #0A1931;
     text-align: center;
     width: 1000px;
     height: 300px;
 }
 
+td {
+    color: white;
+}
+
 .skills-img {
-    margin: 20px 20px 10px 20px;
+    margin: 30px 80px 10px 70px;
 }
