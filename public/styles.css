@@ -1,8 +1,8 @@
-.intro-start, .intro-para, .education-schools, .education-heading {
+.intro-start, .intro-para, .education-schools, .education-heading, .skills-heading {
     text-align: center;
 }
 
-.intro-name, .intro-para, .education-heading {
+.intro-name, .intro-para, .education-heading, .skills-heading {
     font-family: 'Baloo Tammudu 2', cursive;
 }
 
@@ -19,4 +19,15 @@
 .education-img {
     border-radius: 10px;
     margin: 0 40px 0 40px;
+}
+
+.carousel-area {
+    background-color: #888888;
+    text-align: center;
+    width: 1000px;
+    height: 300px;
+}
+
+.skills-img {
+    margin: 20px 20px 10px 20px;
 }
