@@ -1,3 +1,8 @@
+#root {
+    background-color: #005792;
+    color: white;
+}
+
 .intro-start, .intro-para, .education-schools, .education-heading, .skills-heading {
     text-align: center;
 }
@@ -8,11 +13,25 @@
 
 .intro-heading {
     font-family: 'Source Code Pro', monospace;
+    margin-bottom: 30px;
+    padding-top: 20px;
+}
+
+.intro-name {
+    margin: 50px 0 20px 0;
+}
+
+.intro-title {
+    margin: 20px 0 20px 0;
+} 
+
+.education-heading, .skills-heading {
+    margin: 40px 0 20px 0;
 }
 
 .my-img {
     border-radius: 40px;
-    box-shadow: 5px 5px 5px #888888;
+    box-shadow: 5px 5px 5px #FFF5AB;
     margin-bottom: 20px;
 }
 
@@ -27,7 +46,7 @@ table {
 .carousel-area {
     background-color: #0A1931;
     text-align: center;
-    width: 1000px;
+    width: 1013px;
     height: 300px;
 }
 
