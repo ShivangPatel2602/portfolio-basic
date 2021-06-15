@@ -4,7 +4,7 @@ function Intro2() {
     return (
         <div className="intro-para">
             <h2 className="intro-title">Short Intro</h2>
-            <p>⚜ Computer Science Student at Nirma University</p>
+            <p>⚜ Computer Science Student at Nirma University (Batch of 2024)</p>
             <p>⚜ I am a ReactJS and NodeJS developer</p>
             <p>⚜ Currently learning Data Structures & Algorithms</p>
             <p>⚜ And..........</p>
